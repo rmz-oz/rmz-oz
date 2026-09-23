@@ -21,6 +21,7 @@ tooling exists because of that week.
 ## Lately
 
 <!-- lately:start -->
+- [rmz-oz](https://github.com/rmz-oz/rmz-oz) · Introduce the profile page with a day traced across five domains · 2026-09-23
 - [actions-radar](https://github.com/rmz-oz/actions-radar) · Report each sweep to a file, and cover the parsers with tests · 2026-09-23
 - [Lingo_Turkiye](https://github.com/rmz-oz/Lingo_Turkiye) · Merge pull request #2 from rmz-oz/readme-kurulum · 2026-09-22
 <!-- lately:end -->
