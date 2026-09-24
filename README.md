@@ -11,4 +11,6 @@ Everything above is still running. So am I.
 
 The pause in the night line is not a drawing mistake.
 
+If you'd like to keep the night shift going: [sponsor on GitHub](https://github.com/sponsors/rmz-oz).
+
 <div align="right"><sub>balduran</sub></div>
